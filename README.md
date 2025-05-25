@@ -2,6 +2,9 @@
 # NeuroCoderFL: A Federated Self-Improving Compiler with LLM-Driven Feedback Optimization
 
 [![Status](https://img.shields.io/badge/status-building-yellow)](https://github.com/DataWizard1631/NeuroCoderFL-A-Federated-Self-Improving-Compiler-with-LLM-Driven-Feedback-Optimization)
+[![License](https://img.shields.io/github/license/DataWizard1631/NeuroCoderFL-A-Federated-Self-Improving-Compiler-with-LLM-Driven-Feedback-Optimization)](./LICENSE)
+
+
 
 ## 📌 Project Overview
 
